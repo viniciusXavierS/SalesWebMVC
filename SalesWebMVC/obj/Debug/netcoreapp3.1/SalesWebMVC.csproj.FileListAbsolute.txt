@@ -107,4 +107,3 @@ C:\Users\vinic\Desktop\agile\Personal\workspace\SalesWebMVC\SalesWebMVC\bin\Debu
 C:\Users\vinic\Desktop\agile\Personal\workspace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.Views.pdb
 C:\Users\vinic\Desktop\agile\Personal\workspace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.csproj.CopyComplete
 C:\Users\vinic\Desktop\agile\Personal\workspace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\SalesWebMVC.genruntimeconfig.cache
-C:\Users\vinic\Desktop\agile\Personal\workspace\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp3.1\Razor\Views\Departments\Index.cshtml.g.cs
