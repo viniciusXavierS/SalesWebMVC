@@ -1,11 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
-using SalesWebMVC.Models;
-using System;
-using System.Collections.Generic;
+using SalesWebMVC.Models.ViewModels;
 using System.Diagnostics;
-using System.Linq;
-using System.Threading.Tasks;
 
 namespace SalesWebMVC.Controllers
 {
